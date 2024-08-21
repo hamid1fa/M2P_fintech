@@ -1,5 +1,4 @@
-# drag_and_drop_game
-
+# M2P_fintech
 A new Flutter project.
 
 ## Getting Started
